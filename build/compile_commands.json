@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mfischer/Marek/Work/DeepVertic/Libraries/DVGUI/build",
+  "command": "/usr/bin/c++ -I/home/mfischer/Marek/Work/DeepVertic/Libraries/DVGUI/src -I/home/mfischer/Marek/Work/DeepVertic/Libraries/DVGUI/include -g -o CMakeFiles/DVGUI.dir/src/main.cpp.o -c /home/mfischer/Marek/Work/DeepVertic/Libraries/DVGUI/src/main.cpp",
+  "file": "/home/mfischer/Marek/Work/DeepVertic/Libraries/DVGUI/src/main.cpp"
+}
+]
