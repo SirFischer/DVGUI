@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDVGUI.a CMakeFiles/DVGUI.dir/src/main.cpp.o
+/usr/bin/ranlib libDVGUI.a

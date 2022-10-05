@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Sandbox.dir/src/main.cpp.o -o Sandbox  lib/libDVGUI.a 

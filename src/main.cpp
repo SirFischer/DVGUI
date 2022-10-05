@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int whatsapp() {
 	std::cout << "Hello world! \n";
 	return 0;
 }
